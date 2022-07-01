@@ -1,0 +1,66 @@
+body {
+  background-color: rgb(214, 200, 241);
+  text-align: center;
+}
+
+h1 {
+  font-family: "roboto", sans-serif;
+  color: rgb(79, 10, 182);
+  font-size: 40px;
+}
+
+main {
+  margin: 25px auto 35px auto;
+  text-align: left;
+  background-color: rgb(123, 70, 230);
+  width: 800px;
+  color: white;
+  border-radius: 8px;
+}
+
+img {
+  width: 255px;
+  height: 155px;
+}
+
+ul {
+  list-style: none;
+  width: 760px;
+  margin: 70px auto 10px auto;
+  padding: 35px 8px;
+}
+
+li {
+    padding: 8px;
+}
+
+
+#downloadform {
+  margin-bottom: 100px;
+  background-color: rgb(225, 182, 73);
+  width: 200px;
+  padding: 15px;
+  margin: 12px auto 100px auto;
+  border-radius: 6px;
+}
+
+p {
+  font-family: "roboto", sans-serif;
+  margin: 10px;
+  font-size: 17px;
+}
+
+.title {
+    font-size: 25px;
+}
+
+.highlight {
+    color: rgb(232, 230, 154);
+}
+
+span {
+    background-color: rgb(229, 232, 196);
+    color: black;
+    border-radius: 6px;
+    padding: 1px;
+}
