@@ -1,2 +1,2 @@
 # summary
-#this is my first project in html and css 
+#This is my first project with html and css 
